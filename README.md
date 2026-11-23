@@ -1,2 +1,3 @@
 # test-cron
-Cronjob for testing how extensions work
+
+Just a test repo to figure out how the vs code extensions work, this is more like a personal project made for exploring and understanding of vs code extensions, so that i can show it to my batchmates in college for the hackathon that we are working on 
